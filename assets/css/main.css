@@ -134,10 +134,10 @@ section {
   height: 37px;
   text-align: center;
   line-height: 30px;
-  background: #961f4e;
+  background: #F17127;
   color: #FFFFFF;
   cursor: pointer;
-  border: 1px solid #961f4e;
+  border: 1px solid #F17127;
   text-decoration: none;
   transition: opacity 0.2s ease-out;
   opacity: 0;
