@@ -460,7 +460,7 @@ section {
 
 .diagonal-shadow::before {
   height: 25%;
-  background: #BC1F5C;
+  background: #F17127;
   -webkit-transform: rotate(-3deg);
   transform: rotate(-3deg);
   -webkit-transform-origin: 3% 0;
